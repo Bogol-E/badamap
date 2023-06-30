@@ -19,8 +19,7 @@
         "start": "vite",
         "build": "vite build",
         "serve": "vite preview --port 9002 --host",
-        "deploy": "gh-pages -d dist",
-        "predeploy": "npm run build"
+        "deploy": "gh-pages -d dist"
     },
-    "homepage": "https://본인주소.github.io/badamap"
+    "homepage": "https://Bogol-E.github.io/badamap"
 }
